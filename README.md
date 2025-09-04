@@ -2,7 +2,6 @@
 
 ![alt text](image.png)
 
-````markdown
 # 🌦 XWeather Bot
 
 XWeather Bot is a Node.js application that automatically fetches real-time weather data from the **OpenWeather API** and posts updates to **Twitter/X** using the [twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) library.  
