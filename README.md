@@ -84,25 +84,3 @@ Ctrl + C
 in terminal to stop execution.
 
 ---
-
-## 🚀 Future Improvements
-
-* Multi-city support
-* Emoji-based weather updates ☀️ 🌧️ 🌩️
-* Deploy on a cloud service (Heroku / Render / Railway)
-
----
-
-## 📜 License
-
-This project is for **educational and personal use only**.
-Not intended for commercial purposes.
-
-```
-
----
-
-✅ Copy this **once** into `README.md` in VS Code, save, commit, and push.  
-
-Do you also want me to give you the **git commands** for adding + committing the README in one go?
-```
