@@ -4,6 +4,7 @@ node_modules/
 # environment / secret files
 config.js
 .env
+config.js
 
 # logs
 npm-debug.log*

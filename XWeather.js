@@ -1,12 +1,8 @@
 import fetch from "node-fetch";
 import { TwitterApi } from "twitter-api-v2";
+import { keys } from "./config.js";
 
-const consumerKey = "RRzX47o02kmKYcDbZ5YMDw3kj";
-const consumerSecret = "TL1W0Yy8dUy8PoU9X5cQMZniZEHaCHDoQHZz6WgJtSkzU1wnM6";
-const accessToken = "1454042364125716480-dVyPGjTRtLyzHGeKRiWK580DQQWEOm";
-const accessTokenSecret = "KCnwZEvJ0TFNn4i1hxEh8sD2Mg9SuA04VRFDJGArCztgd";
-
-const weatherApiKey = "2797b946af5bc2e2c2168252a08ebdc9";
+const { consumerKey, consumerSecret, accessToken, accessTokenSecret, weatherApiKey } = keys;
 
 const twitterClient = new TwitterApi({
   appKey: consumerKey,
